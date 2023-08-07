@@ -1,0 +1,8 @@
+C:\Project\Practice_CodeCheff\Practice_CodeCheff\bin\Debug\Practice_CodeCheff.exe.config
+C:\Project\Practice_CodeCheff\Practice_CodeCheff\bin\Debug\Practice_CodeCheff.exe
+C:\Project\Practice_CodeCheff\Practice_CodeCheff\bin\Debug\Practice_CodeCheff.pdb
+C:\Project\Practice_CodeCheff\Practice_CodeCheff\obj\Debug\Practice_CodeCheff.csproj.AssemblyReference.cache
+C:\Project\Practice_CodeCheff\Practice_CodeCheff\obj\Debug\Practice_CodeCheff.csproj.SuggestedBindingRedirects.cache
+C:\Project\Practice_CodeCheff\Practice_CodeCheff\obj\Debug\Practice_CodeCheff.csproj.CoreCompileInputs.cache
+C:\Project\Practice_CodeCheff\Practice_CodeCheff\obj\Debug\Practice_CodeCheff.exe
+C:\Project\Practice_CodeCheff\Practice_CodeCheff\obj\Debug\Practice_CodeCheff.pdb

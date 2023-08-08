@@ -12,9 +12,14 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P8 DL - 255
+            MasterchefFinals masterchefFinals   = new MasterchefFinals();
+            masterchefFinals.Start();
+
+
             //P7  Diff lvl - 254
-            WaterConsumption waterConsumption = new WaterConsumption();
-            waterConsumption.Start();
+            //WaterConsumption waterConsumption = new WaterConsumption();
+            //waterConsumption.Start();
 
             //P6 Diff Lvl - 252
             //SavingTaxes savingTaxes = new SavingTaxes();

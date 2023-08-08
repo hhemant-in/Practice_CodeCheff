@@ -12,9 +12,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P11 DL - 260
+            ChefPlaysLudo chefPlaysLudo = new ChefPlaysLudo();
+            chefPlaysLudo.Start();
+
             //P10 DL - 258
-            Fitness fitness = new Fitness();
-            fitness.Start();
+            //Fitness fitness = new Fitness();
+            //fitness.Start();
 
             //P9 DL - 257
             //BiryaniClasses biryaniClasses = new BiryaniClasses();

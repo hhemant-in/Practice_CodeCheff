@@ -12,9 +12,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P14 DL - 267
+            DetermineTheScore determineTheScore = new DetermineTheScore();
+            determineTheScore.Start();
+
             //P13 DL - 264
-            HowManyUnattemptedProblems howManyUnattemptedProblems = new HowManyUnattemptedProblems();
-            howManyUnattemptedProblems.Start();
+            //HowManyUnattemptedProblems howManyUnattemptedProblems = new HowManyUnattemptedProblems();
+            //howManyUnattemptedProblems.Start();
 
             //P12 DL - 263
             //Burgers burgers = new Burgers();

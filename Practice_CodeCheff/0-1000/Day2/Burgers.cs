@@ -15,15 +15,16 @@ namespace Practice_CodeCheff._0_1000.Day2
             for (int i = 0; i < NumberOfTestCases; i++)
             {
                 string[] InputCase = Console.ReadLine().Split();
-                int numberOnDice = int.Parse(InputCase[0]);
+                int numberOfPatty = int.Parse(InputCase[0]);
+                int numberOfBuns = int.Parse(InputCase[1]);
 
-                if (numberOnDice == 6)
+                if (numberOfBuns <= numberOfPatty)
                 {
-                    Console.WriteLine("YES");
+                    Console.WriteLine(numberOfBuns);
                 }
                 else
                 {
-                    Console.WriteLine("NO");
+                    Console.WriteLine(numberOfPatty);
                 }
             }
         }

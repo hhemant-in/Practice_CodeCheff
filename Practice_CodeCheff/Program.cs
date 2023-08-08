@@ -12,9 +12,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P10 DL - 258
+            Fitness fitness = new Fitness();
+            fitness.Start();
+
             //P9 DL - 257
-            BiryaniClasses biryaniClasses = new BiryaniClasses();
-            biryaniClasses.Start();
+            //BiryaniClasses biryaniClasses = new BiryaniClasses();
+            //biryaniClasses.Start();
 
             //P8 DL - 255
             //MasterchefFinals masterchefFinals   = new MasterchefFinals();

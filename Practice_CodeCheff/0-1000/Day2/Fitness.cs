@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Practice_CodeCheff._0_1000.Day2
 {
-    internal class BiryaniClasses
+    internal class Fitness
     {
         internal void Start()
         {
@@ -15,11 +15,10 @@ namespace Practice_CodeCheff._0_1000.Day2
             for (int i = 0; i < NumberOfTestCases; i++)
             {
                 string[] InputCase = Console.ReadLine().Split();
-                int weeks = int.Parse(InputCase[0]);
-                int costPerWeek = int.Parse(InputCase[1]);
+                int KM_Walked = int.Parse(InputCase[0]) * 2;
 
 
-                Console.WriteLine(weeks * costPerWeek);
+                Console.WriteLine(KM_Walked * 5);
 
             }
         }

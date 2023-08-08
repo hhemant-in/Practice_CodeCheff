@@ -12,10 +12,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
-            //P8 DL - 255
-            MasterchefFinals masterchefFinals   = new MasterchefFinals();
-            masterchefFinals.Start();
+            //P9 DL - 257
+            BiryaniClasses biryaniClasses = new BiryaniClasses();
+            biryaniClasses.Start();
 
+            //P8 DL - 255
+            //MasterchefFinals masterchefFinals   = new MasterchefFinals();
+            //masterchefFinals.Start();
 
             //P7  Diff lvl - 254
             //WaterConsumption waterConsumption = new WaterConsumption();

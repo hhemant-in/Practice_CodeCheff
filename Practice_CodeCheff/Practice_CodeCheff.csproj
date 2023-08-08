@@ -43,20 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="0-1000\AddTwoNumbers.cs" />
-    <Compile Include="0-1000\AgeLimit.cs" />
-    <Compile Include="0-1000\GoodTurn.cs" />
-    <Compile Include="0-1000\NumberMirror.cs" />
-    <Compile Include="0-1000\SavingTaxes.cs" />
-    <Compile Include="0-1000\Squats.cs" />
+    <Compile Include="0-1000\Day1\AddTwoNumbers.cs" />
+    <Compile Include="0-1000\Day1\AgeLimit.cs" />
+    <Compile Include="0-1000\Day1\GoodTurn.cs" />
+    <Compile Include="0-1000\Day1\NumberMirror.cs" />
+    <Compile Include="0-1000\Day1\SavingTaxes.cs" />
+    <Compile Include="0-1000\Day1\Squats.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="0-1000\Day1\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

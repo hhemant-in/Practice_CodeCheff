@@ -13,9 +13,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P18 DL - 276
+            TaxInChefland taxInChefland = new TaxInChefland();
+            taxInChefland.Start();
+
             //P17 DL - 273
-            IPLTicketRush iPLTicketRush = new IPLTicketRush();
-            iPLTicketRush.Start();
+            //IPLTicketRush iPLTicketRush = new IPLTicketRush();
+            //iPLTicketRush.Start();
 
             //P16 DL - 273
             //KitchenTimings kitchenTimings = new KitchenTimings();

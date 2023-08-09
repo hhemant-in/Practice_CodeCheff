@@ -13,9 +13,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P23 DL - 281
+            ReachTheTarget reachTheTarget = new ReachTheTarget();
+            reachTheTarget.Start();
+
             //P22 DL - 281
-            WhoIsTaller_ whoIsTaller_ = new WhoIsTaller_();
-            whoIsTaller_.Start();
+            //WhoIsTaller_ whoIsTaller_ = new WhoIsTaller_();
+            //whoIsTaller_.Start();
 
             //P21 DL - 279
             //PuzzleHunt puzzleHunt = new PuzzleHunt();

@@ -13,9 +13,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P16 DL - 273
+            KitchenTimings kitchenTimings = new KitchenTimings();
+            kitchenTimings.Start();
+
             //P15 DL - 272
-            DonationDrive donationDrive = new DonationDrive();
-            donationDrive.Start();
+            //DonationDrive donationDrive = new DonationDrive();
+            //donationDrive.Start();
 
             //P14 DL - 267
             //DetermineTheScore determineTheScore = new DetermineTheScore();

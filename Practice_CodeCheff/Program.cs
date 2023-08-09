@@ -13,9 +13,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P25 DL - 284
+            MyVery1stContest_ myVery1StContest_ = new MyVery1stContest_();
+            myVery1StContest_.Start();
+
             //P24 DL - 283
-            TourOfKing tourOfKing = new TourOfKing();
-            tourOfKing.Start();
+            //TourOfKing tourOfKing = new TourOfKing();
+            //tourOfKing.Start();
 
             //P23 DL - 281
             //ReachTheTarget reachTheTarget = new ReachTheTarget();

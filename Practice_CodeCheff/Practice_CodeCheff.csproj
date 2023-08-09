@@ -57,6 +57,17 @@
     <Compile Include="0-1000\Day2\HowManyUnattemptedProblems.cs" />
     <Compile Include="0-1000\Day2\MasterchefFinals.cs" />
     <Compile Include="0-1000\Day2\WaterConsumption.cs" />
+    <Compile Include="0-1000\Day3\AudibleRange.cs" />
+    <Compile Include="0-1000\Day3\DonationDrive.cs" />
+    <Compile Include="0-1000\Day3\IPLTicketRush.cs" />
+    <Compile Include="0-1000\Day3\KitchenTimings.cs" />
+    <Compile Include="0-1000\Day3\MyVery1stContest!.cs" />
+    <Compile Include="0-1000\Day3\PuzzleHunt.cs" />
+    <Compile Include="0-1000\Day3\ReachOnTime.cs" />
+    <Compile Include="0-1000\Day3\ReachTheTarget.cs" />
+    <Compile Include="0-1000\Day3\TaxInChefland.cs" />
+    <Compile Include="0-1000\Day3\TourOfKing.cs" />
+    <Compile Include="0-1000\Day3\WhoIsTaller!.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

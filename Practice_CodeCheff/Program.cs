@@ -1,5 +1,6 @@
 ﻿using Practice_CodeCheff._0_1000;
 using Practice_CodeCheff._0_1000.Day2;
+using Practice_CodeCheff._0_1000.Day3;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,9 +13,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P15 DL - 272
+            DonationDrive donationDrive = new DonationDrive();
+            donationDrive.Start();
+
             //P14 DL - 267
-            DetermineTheScore determineTheScore = new DetermineTheScore();
-            determineTheScore.Start();
+            //DetermineTheScore determineTheScore = new DetermineTheScore();
+            //determineTheScore.Start();
 
             //P13 DL - 264
             //HowManyUnattemptedProblems howManyUnattemptedProblems = new HowManyUnattemptedProblems();

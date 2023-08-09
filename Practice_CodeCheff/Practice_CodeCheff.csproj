@@ -49,6 +49,14 @@
     <Compile Include="0-1000\Day1\NumberMirror.cs" />
     <Compile Include="0-1000\Day1\SavingTaxes.cs" />
     <Compile Include="0-1000\Day1\Squats.cs" />
+    <Compile Include="0-1000\Day2\BiryaniClasses.cs" />
+    <Compile Include="0-1000\Day2\Burgers.cs" />
+    <Compile Include="0-1000\Day2\ChefPlaysLudo.cs" />
+    <Compile Include="0-1000\Day2\DetermineTheScore.cs" />
+    <Compile Include="0-1000\Day2\Fitness.cs" />
+    <Compile Include="0-1000\Day2\HowManyUnattemptedProblems.cs" />
+    <Compile Include="0-1000\Day2\MasterchefFinals.cs" />
+    <Compile Include="0-1000\Day2\WaterConsumption.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

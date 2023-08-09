@@ -13,9 +13,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P17 DL - 273
+            IPLTicketRush iPLTicketRush = new IPLTicketRush();
+            iPLTicketRush.Start();
+
             //P16 DL - 273
-            KitchenTimings kitchenTimings = new KitchenTimings();
-            kitchenTimings.Start();
+            //KitchenTimings kitchenTimings = new KitchenTimings();
+            //kitchenTimings.Start();
 
             //P15 DL - 272
             //DonationDrive donationDrive = new DonationDrive();

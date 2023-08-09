@@ -15,10 +15,10 @@ namespace Practice_CodeCheff._0_1000.Day3
             for (int i = 0; i < NumberOfTestCases; i++)
             {
                 string[] InputCase = Console.ReadLine().Split();
-                int requiredDonations = int.Parse(InputCase[0]);
-                int collectedDonations = int.Parse(InputCase[1]);
+                int startHour = int.Parse(InputCase[0]);
+                int endHour= int.Parse(InputCase[1]);
 
-                Console.WriteLine(requiredDonations - collectedDonations);
+                Console.WriteLine(endHour - startHour);
             }
         }
     }

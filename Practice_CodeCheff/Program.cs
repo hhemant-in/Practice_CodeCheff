@@ -13,9 +13,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P24 DL - 283
+            TourOfKing tourOfKing = new TourOfKing();
+            tourOfKing.Start();
+
             //P23 DL - 281
-            ReachTheTarget reachTheTarget = new ReachTheTarget();
-            reachTheTarget.Start();
+            //ReachTheTarget reachTheTarget = new ReachTheTarget();
+            //reachTheTarget.Start();
 
             //P22 DL - 281
             //WhoIsTaller_ whoIsTaller_ = new WhoIsTaller_();

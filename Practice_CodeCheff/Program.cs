@@ -13,9 +13,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P21 DL - 279
+            PuzzleHunt puzzleHunt = new PuzzleHunt();
+            puzzleHunt.Start();
+
             //P20 DL - 279
-            ReachOnTime reachOnTime = new ReachOnTime();
-            reachOnTime.Start();
+            //ReachOnTime reachOnTime = new ReachOnTime();
+            //reachOnTime.Start();
 
             //P19 DL - 279
             //AudibleRange audibleRange = new AudibleRange();

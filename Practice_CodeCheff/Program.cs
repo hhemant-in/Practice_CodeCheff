@@ -1,6 +1,7 @@
 ﻿using Practice_CodeCheff._0_1000;
 using Practice_CodeCheff._0_1000.Day2;
 using Practice_CodeCheff._0_1000.Day3;
+using Practice_CodeCheff._0_1000.Day4;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,9 +14,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P26
+            _2000 _2000 = new _2000();
+            _2000.Start();
+
             //P25 DL - 284
-            MyVery1stContest_ myVery1StContest_ = new MyVery1stContest_();
-            myVery1StContest_.Start();
+            //MyVery1stContest_ myVery1StContest_ = new MyVery1stContest_();
+            //myVery1StContest_.Start();
 
             //P24 DL - 283
             //TourOfKing tourOfKing = new TourOfKing();

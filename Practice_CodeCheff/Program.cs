@@ -14,9 +14,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P32 DL - 296
+            TotalPrizeMoney totalPrizeMoney = new TotalPrizeMoney();
+            totalPrizeMoney.Start();
+
             //P31 DL - 294
-            Parity parity = new Parity();
-            parity.Start();
+            //Parity parity = new Parity();
+            //parity.Start();
 
             //P30 DL - 289
             //CandyDivision candyDivision = new CandyDivision();

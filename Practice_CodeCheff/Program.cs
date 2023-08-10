@@ -14,9 +14,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
-            //P27 DL - 258
-            RollerCoaster rollerCoaster = new RollerCoaster();
-            rollerCoaster.Start();
+            //P28 DL - 287
+            CodeChefLearnProblemSolving codeChefLearnProblemSolving = new CodeChefLearnProblemSolving();
+            codeChefLearnProblemSolving.Start();
+
+            //P27 DL - 285
+            //RollerCoaster rollerCoaster = new RollerCoaster();
+            //rollerCoaster.Start();
 
             //P26 DL - 284
             //_2000 _2000 = new _2000();

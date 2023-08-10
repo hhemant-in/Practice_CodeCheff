@@ -14,9 +14,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
-            //P26
-            _2000 _2000 = new _2000();
-            _2000.Start();
+            //P27 DL - 258
+            RollerCoaster rollerCoaster = new RollerCoaster();
+            rollerCoaster.Start();
+
+            //P26 DL - 284
+            //_2000 _2000 = new _2000();
+            //_2000.Start();
 
             //P25 DL - 284
             //MyVery1stContest_ myVery1StContest_ = new MyVery1stContest_();

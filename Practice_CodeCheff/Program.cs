@@ -14,9 +14,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P29 DL - 288
+            ChefAndBrainSpeed chefAndBrainSpeed = new ChefAndBrainSpeed();
+            chefAndBrainSpeed.Start();
+
             //P28 DL - 287
-            CodeChefLearnProblemSolving codeChefLearnProblemSolving = new CodeChefLearnProblemSolving();
-            codeChefLearnProblemSolving.Start();
+            //CodeChefLearnProblemSolving codeChefLearnProblemSolving = new CodeChefLearnProblemSolving();
+            //codeChefLearnProblemSolving.Start();
 
             //P27 DL - 285
             //RollerCoaster rollerCoaster = new RollerCoaster();

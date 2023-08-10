@@ -14,9 +14,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P31 DL - 294
+            ChefOnDate chefOnDate = new ChefOnDate();
+            chefOnDate.Start();
+
             //P30 DL - 289
-            CandyDivision candyDivision = new CandyDivision();
-            candyDivision.Start();
+            //CandyDivision candyDivision = new CandyDivision();
+            //candyDivision.Start();
 
             //P29 DL - 288
             //ChefAndBrainSpeed chefAndBrainSpeed = new ChefAndBrainSpeed();

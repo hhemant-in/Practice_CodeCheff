@@ -15,9 +15,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P36 DL - 299
+            Ageing ageing = new Ageing();
+            ageing.Start();
+
             //P35 DL - 298
-            TomAndJerryChase tomAndJerryChase = new TomAndJerryChase();
-            tomAndJerryChase.Start();
+            //TomAndJerryChase tomAndJerryChase = new TomAndJerryChase();
+            //tomAndJerryChase.Start();
 
             //P34 DL - 296
             //BatteryHealth batteryHealth = new BatteryHealth();

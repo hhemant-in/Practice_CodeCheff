@@ -68,6 +68,14 @@
     <Compile Include="0-1000\Day3\TaxInChefland.cs" />
     <Compile Include="0-1000\Day3\TourOfKing.cs" />
     <Compile Include="0-1000\Day3\WhoIsTaller!.cs" />
+    <Compile Include="0-1000\Day4\2000.cs" />
+    <Compile Include="0-1000\Day4\CandyDivision.cs" />
+    <Compile Include="0-1000\Day4\ChefAndBrainSpeed.cs" />
+    <Compile Include="0-1000\Day4\ChefOnDate.cs" />
+    <Compile Include="0-1000\Day4\CodeChefLearnProblemSolving.cs" />
+    <Compile Include="0-1000\Day4\Parity.cs" />
+    <Compile Include="0-1000\Day4\RollerCoaster.cs" />
+    <Compile Include="0-1000\Day4\TotalPrizeMoney.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

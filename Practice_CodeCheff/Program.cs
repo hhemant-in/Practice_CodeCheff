@@ -2,6 +2,7 @@
 using Practice_CodeCheff._0_1000.Day2;
 using Practice_CodeCheff._0_1000.Day3;
 using Practice_CodeCheff._0_1000.Day4;
+using Practice_CodeCheff._0_1000.Day5;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,9 +15,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P33 DL - 296
+            CountingWords countingWords = new CountingWords();
+            countingWords.Start();
+
             //P32 DL - 296
-            TotalPrizeMoney totalPrizeMoney = new TotalPrizeMoney();
-            totalPrizeMoney.Start();
+            //TotalPrizeMoney totalPrizeMoney = new TotalPrizeMoney();
+            //totalPrizeMoney.Start();
 
             //P31 DL - 294
             //Parity parity = new Parity();

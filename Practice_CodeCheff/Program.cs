@@ -15,9 +15,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P34 DL - 296
+            BatteryHealth batteryHealth = new BatteryHealth();
+            batteryHealth.Start();
+
             //P33 DL - 296
-            CountingWords countingWords = new CountingWords();
-            countingWords.Start();
+            //CountingWords countingWords = new CountingWords();
+            //countingWords.Start();
 
             //P32 DL - 296
             //TotalPrizeMoney totalPrizeMoney = new TotalPrizeMoney();

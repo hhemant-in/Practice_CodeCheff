@@ -76,6 +76,8 @@
     <Compile Include="0-1000\Day4\Parity.cs" />
     <Compile Include="0-1000\Day4\RollerCoaster.cs" />
     <Compile Include="0-1000\Day4\TotalPrizeMoney.cs" />
+    <Compile Include="0-1000\Day5\BatteryHealth.cs" />
+    <Compile Include="0-1000\Day5\CountingWords.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

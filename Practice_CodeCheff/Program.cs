@@ -15,9 +15,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P35 DL - 298
+            TomAndJerryChase tomAndJerryChase = new TomAndJerryChase();
+            tomAndJerryChase.Start();
+
             //P34 DL - 296
-            BatteryHealth batteryHealth = new BatteryHealth();
-            batteryHealth.Start();
+            //BatteryHealth batteryHealth = new BatteryHealth();
+            //batteryHealth.Start();
 
             //P33 DL - 296
             //CountingWords countingWords = new CountingWords();

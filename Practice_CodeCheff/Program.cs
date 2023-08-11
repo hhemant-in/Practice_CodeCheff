@@ -15,9 +15,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P38 DL 300                                            :-D Finally 300
+            SecondMaxOfThreeNumbers secondMaxOfThreeNumbers = new SecondMaxOfThreeNumbers();
+            secondMaxOfThreeNumbers.Start();
+
             //P37 DL - 299
-            RightThere rightThere = new RightThere();
-            rightThere.Start();
+            //RightThere rightThere = new RightThere();
+            //rightThere.Start();
 
             //P36 DL - 299
             //Ageing ageing = new Ageing();

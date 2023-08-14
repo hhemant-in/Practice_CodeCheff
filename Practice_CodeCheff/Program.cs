@@ -16,9 +16,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P47 DL - 419
+            FillTheBucket fillTheBucket = new FillTheBucket();
+            fillTheBucket.Start();
+
             //P46 DL - 400
-            RatingImprovement ratingImprovement = new RatingImprovement();
-            ratingImprovement.Start();
+            //RatingImprovement ratingImprovement = new RatingImprovement();
+            //ratingImprovement.Start();
 
             //P45 DL - 350
             ChefAndChapters chefAndChapters = new ChefAndChapters();

@@ -82,6 +82,15 @@
     <Compile Include="0-1000\Day5\RightThere.cs" />
     <Compile Include="0-1000\Day5\SecondMaxOfThreeNumbers.cs" />
     <Compile Include="0-1000\Day5\TomAndJerryChase.cs" />
+    <Compile Include="0-1000\Day6\BullOrBear.cs" />
+    <Compile Include="0-1000\Day6\ChairsRequirement.cs" />
+    <Compile Include="0-1000\Day6\ChefAndChapters.cs" />
+    <Compile Include="0-1000\Day6\EqualDistribution.cs" />
+    <Compile Include="0-1000\Day6\FillTheBucket.cs" />
+    <Compile Include="0-1000\Day6\GetSubscription.cs" />
+    <Compile Include="0-1000\Day6\JustOneMoreEpisode.cs" />
+    <Compile Include="0-1000\Day6\PodiumFinish.cs" />
+    <Compile Include="0-1000\Day6\RatingImprovement.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

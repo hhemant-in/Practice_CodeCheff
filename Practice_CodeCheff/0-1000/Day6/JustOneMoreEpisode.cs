@@ -10,7 +10,13 @@ namespace Practice_CodeCheff._0_1000.Day6
     {
         internal void Start()
         {
-            throw new NotImplementedException();
+            int NumberOfTestCases = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < NumberOfTestCases; i++)
+            {
+                string[] InputCase = Console.ReadLine().Split();
+                Console.WriteLine(int.Parse(InputCase[0]) > 24 ? "YES" : "NO");
+            }
         }
     }
 }

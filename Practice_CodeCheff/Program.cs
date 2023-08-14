@@ -16,9 +16,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P41 DL - 315
+            GetSubscription getSubscription = new GetSubscription();
+            getSubscription.Start();
+
             //P40 DL - 305
-            ChairsRequirement chairsRequirement = new ChairsRequirement();
-            chairsRequirement.Start();
+            //ChairsRequirement chairsRequirement = new ChairsRequirement();
+            //chairsRequirement.Start();
 
             //P39 DL - 300
             BullOrBear bullOrBear = new BullOrBear();

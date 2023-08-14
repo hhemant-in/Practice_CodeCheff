@@ -16,6 +16,10 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P46 DL - 400
+            RatingImprovement ratingImprovement = new RatingImprovement();
+            ratingImprovement.Start();
+
             //P45 DL - 350
             ChefAndChapters chefAndChapters = new ChefAndChapters();
             chefAndChapters.Start();

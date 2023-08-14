@@ -16,9 +16,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P43 DL - 330
+            EqualDistribution equalDistribution = new EqualDistribution();
+            equalDistribution.Start();
+
             //P42 DL - 320
-            JustOneMoreEpisode justOneMoreEpisode = new JustOneMoreEpisode();
-            justOneMoreEpisode.Start();
+            //JustOneMoreEpisode justOneMoreEpisode = new JustOneMoreEpisode();
+            //justOneMoreEpisode.Start();
 
 
             //P41 DL - 315

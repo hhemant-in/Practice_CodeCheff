@@ -15,8 +15,9 @@ namespace Practice_CodeCheff._0_1000.Day6
             for (int i = 0; i < NumberOfTestCases; i++)
             {
                 string[] InputCase = Console.ReadLine().Split();
+                int emptyBucket = int.Parse(InputCase[0]) - int.Parse(InputCase[1]);
 
-                Console.WriteLine(int.Parse(InputCase[0]) * int.Parse(InputCase[1]) * int.Parse(InputCase[2]));
+                Console.WriteLine(emptyBucket > 0 ? emptyBucket : 0);
             }
         }
     }

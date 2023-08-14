@@ -3,6 +3,7 @@ using Practice_CodeCheff._0_1000.Day2;
 using Practice_CodeCheff._0_1000.Day3;
 using Practice_CodeCheff._0_1000.Day4;
 using Practice_CodeCheff._0_1000.Day5;
+using Practice_CodeCheff._0_1000.Day6;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,9 +16,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P39 DL - 300
+            BullOrBear bullOrBear = new BullOrBear();
+            bullOrBear.Start();
+
             //P38 DL 300                                            :-D Finally 300
-            SecondMaxOfThreeNumbers secondMaxOfThreeNumbers = new SecondMaxOfThreeNumbers();
-            secondMaxOfThreeNumbers.Start();
+            //SecondMaxOfThreeNumbers secondMaxOfThreeNumbers = new SecondMaxOfThreeNumbers();
+            //secondMaxOfThreeNumbers.Start();
 
             //P37 DL - 299
             //RightThere rightThere = new RightThere();

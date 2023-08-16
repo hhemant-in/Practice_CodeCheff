@@ -17,9 +17,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P50 DL - 500
+            GreaterAverage greaterAverage = new GreaterAverage();
+            greaterAverage.Start();
+
             //P49 DL - 470
-            CourseRegistration courseRegistration = new CourseRegistration();
-            courseRegistration.Start();
+            //CourseRegistration courseRegistration = new CourseRegistration();
+            //courseRegistration.Start();
 
             //P48 DL - 440
             //ExpiringBread expiringBread = new ExpiringBread();

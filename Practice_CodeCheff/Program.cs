@@ -17,9 +17,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P51 DL - 760
+            DistinctColors distinctColors = new DistinctColors();
+            distinctColors.Start();
+
             //P51 DL - 643
-            BathInWinters bathInWinters = new BathInWinters();
-            bathInWinters.Start();
+            //BathInWinters bathInWinters = new BathInWinters();
+            //bathInWinters.Start();
 
             //P50 DL - 500
             //GreaterAverage greaterAverage = new GreaterAverage();

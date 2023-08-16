@@ -91,7 +91,9 @@
     <Compile Include="0-1000\Day6\JustOneMoreEpisode.cs" />
     <Compile Include="0-1000\Day6\PodiumFinish.cs" />
     <Compile Include="0-1000\Day6\RatingImprovement.cs" />
+    <Compile Include="0-1000\Day7\BathInWinters.cs" />
     <Compile Include="0-1000\Day7\CourseRegistration.cs" />
+    <Compile Include="0-1000\Day7\DistinctColors.cs" />
     <Compile Include="0-1000\Day7\ExpiringBread.cs" />
     <Compile Include="0-1000\Day7\GreaterAverage.cs" />
     <Compile Include="Program.cs" />

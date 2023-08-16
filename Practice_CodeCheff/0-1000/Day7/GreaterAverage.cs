@@ -19,7 +19,6 @@ namespace Practice_CodeCheff._0_1000.Day7
                 double average = (double)sum / 2;
                 Console.WriteLine(average > int.Parse(InputCase[2]) ? "YES" : "NO");
             }
-            Console.ReadLine();
         }
     }
 }

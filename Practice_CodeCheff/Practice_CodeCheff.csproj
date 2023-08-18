@@ -96,6 +96,7 @@
     <Compile Include="0-1000\Day7\DistinctColors.cs" />
     <Compile Include="0-1000\Day7\ExpiringBread.cs" />
     <Compile Include="0-1000\Day7\GreaterAverage.cs" />
+    <Compile Include="0-1000\Day8\SmallFactorial.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -5,6 +5,7 @@ using Practice_CodeCheff._0_1000.Day4;
 using Practice_CodeCheff._0_1000.Day5;
 using Practice_CodeCheff._0_1000.Day6;
 using Practice_CodeCheff._0_1000.Day7;
+using Practice_CodeCheff._0_1000.Day8;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,9 +18,13 @@ namespace Practice_CodeCheff
     {
         static void Main(string[] args)
         {
+            //P52 DL - 760
+            SmallFactorial smallFactorial = new SmallFactorial();
+            smallFactorial.Start();
+
             //P51 DL - 760
-            DistinctColors distinctColors = new DistinctColors();
-            distinctColors.Start();
+            //DistinctColors distinctColors = new DistinctColors();
+            //distinctColors.Start();
 
             //P51 DL - 643
             //BathInWinters bathInWinters = new BathInWinters();
